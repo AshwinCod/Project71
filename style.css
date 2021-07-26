@@ -1,0 +1,162 @@
+body
+{
+    text-align: center;
+}
+#about {
+    font-family: arial;
+    padding: 50px;
+    text-align: center;
+    background-color: cornsilk;
+}
+h2 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+#contact{
+    text-align: center;
+    background-color: darkseagreen;
+}
+#gallery{
+    background-color: darksalmon;
+}
+#gallery iframe
+{
+    width: 80%;
+}
+#search{
+    text-align: center;
+}
+.list{
+    text-align: left;
+}
+#library{
+    text-align: center;
+}
+input
+{
+    background: grey;
+}
+.my_nav_bar{
+    position: sticky;
+    top:0;
+    z-index:99999;
+}
+#marqueeStyle{
+    background-color: rgb(52, 52, 241);
+    color: whitesmoke;
+}
+#video iframe{
+    width: 100%;
+}
+.container {
+    padding-top: 40px;
+}
+
+#search img{
+    float: left;
+    margin-bottom: 40px;
+    border-radius: 25px;
+    width: 390px;
+    height: 300px;
+}
+.list-group-item{
+    border-radius: 20px;
+}
+.list-group-item1{
+    border-radius: 20px;
+}
+.marathon_head{
+    font-size: 20px; 
+    padding: 6px 22px; 
+    border-radius: 10px; 
+    margin-bottom: 15px; 
+    width: 100%; 
+    display: inline-block;
+}
+.marathon_head i{
+    float: right;
+} 
+.cycle_head{
+    font-size: 20px; 
+    padding: 6px 22px; 
+    border-radius: 10px; 
+    margin-bottom: 15px; 
+    width: 100%; 
+    display: inline-block;
+}
+.cycle_head i{
+    float: right;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+.chess_mainDiv{
+    border: 1px solid green;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.chess_mainDiv img{
+    width: 40%;
+}
+.chess_mainDiv hr{
+    width: 230px;
+}
+.chess_mainDiv h5,.chess_mainDiv p{
+    margin-left: 20px;
+}
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+.book
+{
+  cursor: pointer;
+}
+
+.book hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
